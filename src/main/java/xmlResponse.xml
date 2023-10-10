@@ -1,0 +1,22 @@
+<root>
+        <person>
+            <name>John Doe</name>
+            <age>30</age>
+            <address>
+                <line>l1</line>
+            </address>
+            <address>
+                <line>l2</line>
+            </address>
+        </person>
+        <person>
+            <name>Jane Smith</name>
+            <age>25</age>
+            <address>
+                <line>l1</line>
+            </address>
+            <address>
+                <line>l2</line>
+            </address>
+        </person>
+</root>

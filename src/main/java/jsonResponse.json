@@ -1,0 +1,28 @@
+{
+    "person": [
+      {
+          "name": "John Doe",
+          "age": "30",
+        "address": [
+          {
+            "line": "l1"
+          },
+          {
+            "line": "ll2"
+          }
+        ]
+      },
+      {
+          "name": "Jane Smith",
+          "age": "25",
+        "address": [
+          {
+            "line": "l1"
+          },
+          {
+            "line": "ll2"
+          }
+        ]
+      }
+    ]
+}
